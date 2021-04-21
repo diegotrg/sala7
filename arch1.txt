@@ -1,3 +1,2 @@
-2
-
-Esta linea nueva la agrego nicole para solucionar los conflictos
+ARCH1
+Esta es una edición de nicole
